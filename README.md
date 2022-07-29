@@ -30,7 +30,7 @@ Improvements can be achieved by adding more images to the dataset and finetuning
 * Make sure you have [Python>=3.7.0](https://www.python.org/) installed in your machine.
 * Git clone this repo into a suitable directory:
 ```
-git clone 
+git clone https://github.com/H-Sorkatti/janjaweed-detector.git
 ```
 *  cd into the project directory:
 ```
