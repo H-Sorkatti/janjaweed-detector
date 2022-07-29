@@ -1,22 +1,22 @@
 # Janjaweed Detector
 
 
-<!-- ![janjaweed](demo/screenshot0.jpg) -->
-<img src="demo/screenshot0.jpg"  width=400>
+![janjaweed](demo/screenshot0.jpg)
+<!-- <img src="demo/screenshot0.jpg"  width=400> -->
 
 
-<!-- ![janjaweed](demo/gif2_screenshot.gif) -->
-<img src="demo/gif_screenshot.gif"  width=400>
+![janjaweed](demo/gif_screenshot.gif)
+<!-- <img src="demo/gif_screenshot.gif"  width=400> -->
 
 
-This Project is a [YOLOv5](https://github.com/ultralytics/yolov5) object detection model that can recognize and detect members of the notorious Janjaweed militia.
+Janjaweed Detector is a [YOLOv5](https://github.com/ultralytics/yolov5) object detection model that can recognize and detect members of the notorious Janjaweed militia.
 
 It is intended for educational purposes only.
 
 
 
 ## Training
-The model was trained with a diverse set of 57 images (45 for training & 12 for validation) annotaed with [LabelImg](https://github.com/heartexlabs/labelImg) tool. Training was run for 300+ epochs. The model achieves fair results when tested:
+The model was trained on a diverse set of 57 images (45 for training & 12 for validation) annotated with [LabelImg](https://github.com/heartexlabs/labelImg) tool. Training was run for 300+ epochs. The model achieves fair results when tested:
 
     Class     Images     Labels        P        R         mAP@.5   mAP@.5:.95:  100% 1/1 [00:00-00:00,  4.07it/s]
     all         12         24         0.755    0.771      0.847      0.403
