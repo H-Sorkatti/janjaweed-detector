@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\PyTorch-Projects\janjaweed_detector_pt/data/test/images\0b440b73-6af0-49fe-bff8-f0e75dcf10a9.jpg
+C:\Users\user\Desktop\PyTorch-Projects\janjaweed_detector_pt/data/test/images\1063a64f-1aa5-4e69-97c9-6453a5440cc1.jpg
+C:\Users\user\Desktop\PyTorch-Projects\janjaweed_detector_pt/data/test/images\16ec114d-8d48-4c9c-9e2f-a226eb460039.jpg
+C:\Users\user\Desktop\PyTorch-Projects\janjaweed_detector_pt/data/test/images\264cb9a5-3c1d-4f71-9b95-0aaafb696407.jpg
+C:\Users\user\Desktop\PyTorch-Projects\janjaweed_detector_pt/data/test/images\2e35da74-5e20-4c51-95b7-cf717e2e23f7.jpg
+C:\Users\user\Desktop\PyTorch-Projects\janjaweed_detector_pt/data/test/images\2ece5a61-2752-4871-88e3-4003f416cf15.jpg
+C:\Users\user\Desktop\PyTorch-Projects\janjaweed_detector_pt/data/test/images\6cd6ef14-dc14-4191-a43d-06b239f6ebff.jpg
+C:\Users\user\Desktop\PyTorch-Projects\janjaweed_detector_pt/data/test/images\726ba987-01db-494d-969f-2481d4df8333.jpg
+C:\Users\user\Desktop\PyTorch-Projects\janjaweed_detector_pt/data/test/images\be74bc0c-225e-43c9-8853-93bedd44193c.jpg
+C:\Users\user\Desktop\PyTorch-Projects\janjaweed_detector_pt/data/test/images\bf3ff1eb-6b32-4c0d-9e1f-07c0b74a5950.jpg
+C:\Users\user\Desktop\PyTorch-Projects\janjaweed_detector_pt/data/test/images\bf6ccb51-86e3-414f-b0be-90422ac1c93b.jpg
+C:\Users\user\Desktop\PyTorch-Projects\janjaweed_detector_pt/data/test/images\fc982d95-6297-405e-9827-f9cff011338a.jpg
