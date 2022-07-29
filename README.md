@@ -34,7 +34,7 @@ git clone https://github.com/H-Sorkatti/janjaweed-detector.git
 ```
 *  cd into the project directory:
 ```
-cd janjaweed_detector
+cd janjaweed-detector
 ```
 * Inside the project create a virtual environmnet:
 ```
