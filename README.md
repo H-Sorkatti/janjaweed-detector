@@ -16,7 +16,7 @@ It is intended for educational purposes only.
 
 
 ## Training
-The model is a YOLOv5s variant, with 7.2 million parameters. It was finetuned on a diverse set of 57 images (45 for training & 12 for validation) annotated with [LabelImg](https://github.com/heartexlabs/labelImg) tool. Training was run for 300+ epochs. The model achieves fair results when tested:
+The model is a YOLOv5s variant, with 7.2 million parameters. It was trained on a diverse set of 57 images (45 for training & 12 for validation) annotated with [LabelImg](https://github.com/heartexlabs/labelImg) tool. Training was run for 300+ epochs. The model achieves fair results when tested:
 
     Class     Images     Labels        P        R         mAP@.5   mAP@.5:.95:  100% 1/1 [00:00-00:00,  4.07it/s]
     all         12         24         0.755    0.771      0.847      0.403
